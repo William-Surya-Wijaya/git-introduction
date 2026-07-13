@@ -5,7 +5,7 @@ function getDataA() {
 
 function getDataB() {
   const dataB = 2;
-  const dataBCalc = 2 * dataB;
+  const dataBCalc = 2 * 5 * dataB;
 
   return dataBCalc;
 }
